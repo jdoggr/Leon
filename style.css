@@ -265,3 +265,44 @@ footer {
   font-size: 15px;
   line-height: 1.5;
 }
+
+#socials ul {
+  background-color: pinkwhite;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.sublist {
+  font-size: 15px;
+  color: purple;
+}
+
+#tiktok {
+  margin: 0;
+  padding: 35px 0 0px 25px;
+  list-style: none;
+  background-image: url("tiktok.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 20px;
+}
+
+#twitch {
+  margin: 0;
+  padding: 35px 0 0px 25px;
+  list-style: none;
+  background-image: url("twitch.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 20px;
+}
+
+#youtube {
+  margin: 0;
+  padding: 35px 0 0px 25px;
+  list-style: none;
+  background-image: url("youtube.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 20px;
+}
