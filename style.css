@@ -275,6 +275,7 @@ footer {
 .sublist {
   font-size: 15px;
   color: purple;
+  font-style: italic;
 }
 
 #tiktok {
@@ -305,4 +306,13 @@ footer {
   background-repeat: no-repeat;
   background-position: left center;
   background-size: 20px;
+}
+
+.fa {
+  height: 100%;
+  width: 100%;
+}
+
+.gallery-item {
+  background-color: #ffe6f0; 
 }
