@@ -316,3 +316,9 @@ footer {
 .gallery-item {
   background-color: #ffe6f0; 
 }
+
+.index-vid {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
